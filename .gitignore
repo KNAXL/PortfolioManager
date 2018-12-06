@@ -1,0 +1,16 @@
+*.log
+*.pid
+*.crt
+*.key
+*.swp
+*.pdb
+*.mdb
+*.suo
+*.userprefs
+*.sdf
+*.unity3d
+*.apk
+
+**/bin/
+**/obj/
+.vs
